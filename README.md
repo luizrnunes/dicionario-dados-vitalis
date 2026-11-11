@@ -2,7 +2,7 @@
 
 Dicionário de dados interativo do banco de dados **vitalis_fitness** (MySQL), desenvolvido na disciplina de Banco de Dados da UNICID, sob orientação do Prof. Dr. Diego Carvalho. A documentação segue boas práticas de governança de dados do DAMA-DMBOK e do COBIT.
 
-**Site publicado:** https://luizrnunes/dicionario-dados-vitalis/
+**Site publicado:** https://luizrnunes.github.io/dicionario-dados-vitalis/
 
 ## Sobre o projeto
 
